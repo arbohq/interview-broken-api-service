@@ -1,5 +1,7 @@
 # Broken API Service (Interview Exercise)
 
+Github Link: https://github.com/arbohq/interview-broken-api-service
+
 This is a small FastAPI service used for debugging and code-quality interviews.
 
 ## Candidate Task
