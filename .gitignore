@@ -1,6 +1,4 @@
-INTERVIEWER_NOTES.md
-AI_ENGINEER_DOCUMENT_REVIEW_MINI_ROUND.md
-interview_questions.md
+internal-docs/
 .venv/
 __pycache__/
 *.pyc
